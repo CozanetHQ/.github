@@ -27,8 +27,6 @@ pattern serious financial infrastructure companies follow:
   engine catalog, and security model
 - **[aegis-developer-sdk](https://github.com/CozanetHQ/aegis-developer-sdk)** —
   typed SDK for the AEGIS public API
-- **[aegis-platform](https://github.com/CozanetHQ/aegis-platform)** — the
-  original open monorepo the engine fleet grew from
 
 Core engines — gateway, identity, wallet vault, transfer, swap, treasury,
 payment, audit, and more — run as 20+ isolated, private repositories behind
