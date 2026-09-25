@@ -9,7 +9,7 @@ software, and automation.
 Our flagship platform: a smart-routing and settlement layer for digital
 assets, payments, and financial applications.
 
-- **Live today (Phase One):** non-custodial wallets on BNB Smart Chain,
+- **Live today (Phase One):** secure wallets on BNB Smart Chain,
   transfers, swaps, and portfolio tracking — [aegis.cozanet.net](https://aegis.cozanet.net)
 - **In active development:** the multi-rail Smart Router — cross-border
   payments that route across banking, mobile money, and blockchain rails
@@ -21,8 +21,6 @@ assets, payments, and financial applications.
 We publish what can be verified and keep the core proprietary — the same
 pattern serious financial infrastructure companies follow:
 
-- **[aegis-web](https://github.com/CozanetHQ/aegis-web)** — the AEGIS web
-  client: non-custodial, client-side key derivation, live market data
 - **[aegis-docs](https://github.com/CozanetHQ/aegis-docs)** — architecture,
   engine catalog, and security model
 - **[aegis-developer-sdk](https://github.com/CozanetHQ/aegis-developer-sdk)** —
